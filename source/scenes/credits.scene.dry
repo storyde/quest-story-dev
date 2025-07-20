@@ -1,0 +1,57 @@
+new-page: true
+set-bg: backgrounds/some-image.jpg
+
+---
+
+= Credits
+
+*Holistic Futures* was written in 2025 by Storyde.
+
+---
+
+Developed using Dendry by Ian D. Millington, with modifications by Autumn Chen. See [github.com/aucchen/dendry](https://github.com/aucchen/dendry) for more information.
+
+---
+
+Frontend design uses UIKit.
+
+---
+
+= Special Thanks
+
+We would like to extend our gratitude to all those who contributed to the development and inspiration of this game.
+
+---
+
+= Contributors
+
+- **Storyde**: Lead Writer and Designer
+- **Ian D. Millington**: Creator of Dendry
+- **Autumn Chen**: Modifications and Enhancements to Dendry
+- **UIKit Team**: Frontend Design Framework
+
+---
+
+= Additional Credits
+
+- **Community Supporters**: For their invaluable feedback and encouragement.
+- **Playtesters**: For their time and insights in shaping the game.
+
+---
+
+= Contact Information
+
+For more information or to get in touch, please visit our website or contact us via email.
+
+---
+
+We hope you enjoyed *Holistic Futures* and thank you for playing!
+
+---
+
+- @back_to_menu: Back to Menu
+
+@back_to_menu
+title: Back to Menu
+subtitle: Return to the Main Menu
+go-to: root

@@ -1,0 +1,17 @@
+on-arrival: complexity_knowledge = 0; management_knowledge = 0; systemic_knowledge = 0; quality_of_life_knowledge = 0; last_scene = "scene0"; recalculated_stats = 1
+new-page: false
+= Welcome to Holistic Futures
+A journey into the unknown awaits you.
+
+---
+
+- @start_game: Start Game
+- @view_credits: View Credits
+
+@start_game
+subtitle: Begin Your Adventure
+go-to: root
+
+@view_credits
+subtitle: Credits and Inspirations
+go-to: credits
