@@ -1,12 +1,19 @@
-This template is built on [smwhr's dendry starter pack](https://github.com/smwhr/dendry-starter-pack), with the addition of an editable sidebar and stylesheet. Everything else is mostly the same.
+This is an educational game built using the Dendry engine. You can play it directly via GitHub Pages.
 
-One difference is that to change the game's title and author, you'll have to change line 6 of `out/html/index.html` and line 20 of `out/html/game.js`, as well as `source/info.dry`.
+This template is based on smwhr's Dendry Starter Pack, with additions including:
 
-To see what the page looks like, see [https://aucchen.github.io/dendry_sidebar_template/](https://aucchen.github.io/dendry_sidebar_template/).
+An editable sidebar
+
+Customizing the style or behavior
+
+CSS styles: out/html/game.css
+
+Custom JavaScript: out/html/game.js
+
 
 ## Editing the sidebar
 
-See `source/scenes/status.scene.dry` Everything in this scene will be displayed in the sidebar, and will be updated on every click.
+See `source/scenes/status.quality.dry` 
 
 ## Editing the stylesheet and/or adding custom JS
 
